@@ -8,5 +8,5 @@ You can just build Spring MVC Framework Project with Maven project.
 
 3.Spring MVC Project
 
-#####If you have problem with getiing libraries from those ways.
-#####You can just start with this templete.
+#####**If you have problem with getiing libraries from those ways.**
+#####**You can just start with this templete.**
